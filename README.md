@@ -142,8 +142,8 @@ Configure environment variables in Railway dashboard.
 ### Docker
 
 ```bash
-docker build -t crav-mcp-github .
-docker run -p 3001:3001 --env-file .env crav-mcp-github
+docker build -t javari-mcp-github .
+docker run -p 3001:3001 --env-file .env javari-mcp-github
 ```
 
 ## Monitoring

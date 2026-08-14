@@ -1,5 +1,5 @@
 {
-  "name": "crav-mcp-github",
+  "name": "javari-mcp-github",
   "version": "1.0.0",
   "description": "GitHub MCP Server for Javari AI Autonomous Execution",
   "main": "dist/index.js",
